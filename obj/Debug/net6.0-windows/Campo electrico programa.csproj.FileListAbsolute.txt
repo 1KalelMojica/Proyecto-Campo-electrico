@@ -1,0 +1,20 @@
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\bin\Debug\net6.0-windows\Campo electrico programa.exe
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\bin\Debug\net6.0-windows\Campo electrico programa.deps.json
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\bin\Debug\net6.0-windows\Campo electrico programa.runtimeconfig.json
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\bin\Debug\net6.0-windows\Campo electrico programa.dll
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\bin\Debug\net6.0-windows\Campo electrico programa.pdb
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo electrico programa.csproj.AssemblyReference.cache
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo_electrico_programa.Form1.resources
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo electrico programa.csproj.GenerateResource.cache
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo electrico programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo electrico programa.AssemblyInfoInputs.cache
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo electrico programa.AssemblyInfo.cs
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo electrico programa.csproj.CoreCompileInputs.cache
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo electrico programa.dll
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\refint\Campo electrico programa.dll
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo electrico programa.pdb
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo electrico programa.genruntimeconfig.cache
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\ref\Campo electrico programa.dll
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo_electrico_programa.Properties.Resources.resources
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo_electrico_programa.yo_enano.resources
+C:\Users\wiwbf\OneDrive\Escritorio\Campo electrico programa\obj\Debug\net6.0-windows\Campo_electrico_programa.Form2.resources
